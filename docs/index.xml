@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warhammer 40k Inquisitor Stuff</title>
+    <link>https://shihan42.github.io/inquisitor/</link>
+    <description>Recent content on Warhammer 40k Inquisitor Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Oct 2021 13:47:36 +0200</lastBuildDate><atom:link href="https://shihan42.github.io/inquisitor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://shihan42.github.io/inquisitor/posts/introduction/</link>
+      <pubDate>Fri, 15 Oct 2021 13:47:36 +0200</pubDate>
+      
+      <guid>https://shihan42.github.io/inquisitor/posts/introduction/</guid>
+      <description>Hello there!
+This is my attempt at a little blog about Warhammer 40k Inquisitor. It is not that I have much to say, but it is a great game which I enjoy and perhaps want to write about.
+May the Emperor protect you!
+- Shihan</description>
+    </item>
+    
+  </channel>
+</rss>

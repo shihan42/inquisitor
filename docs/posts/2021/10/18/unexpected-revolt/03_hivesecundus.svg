@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="1017pt" height="746pt" viewBox="0.00 0.00 1016.95 745.74" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 741.7351)">
+<title>hiveSecundus</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-741.7351 1012.9528,-741.7351 1012.9528,4 -4,4"/>
+<!-- BT06_GatesOfSecundus -->
+<g id="node1" class="node">
+<title>BT06_GatesOfSecundus</title>
+<polygon fill="none" stroke="#000000" points="675.9557,-737.7351 510.5903,-737.7351 510.5903,-673.7351 675.9557,-673.7351 675.9557,-737.7351"/>
+<text text-anchor="start" x="573.6429" y="-708.1351" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Part II:</text>
+<text text-anchor="start" x="518.4318" y="-694.1351" font-family="Times,serif" font-size="14.00" fill="#000000">Arriving at Hive Secundus</text>
+<text text-anchor="start" x="591.523" y="-680.1351" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT06_CHOICE1_AttackVoidport -->
+<g id="node2" class="node">
+<title>BT06_CHOICE1_AttackVoidport</title>
+<polygon fill="none" stroke="#000000" points="446.2436,-505.9351 318.3024,-505.9351 318.3024,-441.9351 446.2436,-441.9351 446.2436,-505.9351"/>
+<text text-anchor="start" x="360.4995" y="-476.3351" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="326.2877" y="-462.3351" font-family="Times,serif" font-size="14.00" fill="#000000">Attack the Voidport</text>
+<text text-anchor="start" x="380.523" y="-448.3351" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT06_GatesOfSecundus&#45;&gt;BT06_CHOICE1_AttackVoidport -->
+<g id="edge1" class="edge">
+<title>BT06_GatesOfSecundus-&gt;BT06_CHOICE1_AttackVoidport</title>
+<path fill="none" stroke="#000000" d="M552.3622,-673.4936C539.0879,-662.3598 524.6124,-649.4723 512.273,-636.7351 474.456,-597.6989 436.2441,-548.3982 411.1304,-514.3325"/>
+<polygon fill="#000000" stroke="#000000" points="413.7698,-512.013 405.0359,-506.0155 408.1235,-516.1505 413.7698,-512.013"/>
+</g>
+<!-- BT06_CHOICE2_OrbitalBarrage -->
+<g id="node3" class="node">
+<title>BT06_CHOICE2_OrbitalBarrage</title>
+<polygon fill="none" stroke="#000000" points="926.8706,-505.9351 783.6754,-505.9351 783.6754,-441.9351 926.8706,-441.9351 926.8706,-505.9351"/>
+<text text-anchor="start" x="833.4995" y="-476.3351" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="791.7242" y="-462.3351" font-family="Times,serif" font-size="14.00" fill="#000000">Order Orbital Barrage </text>
+<text text-anchor="start" x="853.523" y="-448.3351" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT06_GatesOfSecundus&#45;&gt;BT06_CHOICE2_OrbitalBarrage -->
+<g id="edge2" class="edge">
+<title>BT06_GatesOfSecundus-&gt;BT06_CHOICE2_OrbitalBarrage</title>
+<path fill="none" stroke="#000000" d="M631.3654,-673.6501C644.9729,-662.0928 660.3731,-648.9026 674.273,-636.7351 722.0734,-594.8921 776.1398,-546.0616 812.6356,-512.8737"/>
+<polygon fill="#000000" stroke="#000000" points="815.1077,-515.3564 820.1481,-506.0373 810.3964,-510.1791 815.1077,-515.3564"/>
+</g>
+<!-- BT06_CHOICE3_WeakWallSegment -->
+<g id="node4" class="node">
+<title>BT06_CHOICE3_WeakWallSegment</title>
+<polygon fill="none" stroke="#000000" points="665.5623,-636.7351 520.9837,-636.7351 520.9837,-558.7351 665.5623,-558.7351 665.5623,-636.7351"/>
+<text text-anchor="start" x="571.4995" y="-607.1351" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="536.7144" y="-593.1351" font-family="Times,serif" font-size="14.00" fill="#000000">Launch attack at the</text>
+<text text-anchor="start" x="529.1285" y="-579.1351" font-family="Times,serif" font-size="14.00" fill="#000000">weakest Wall Segment</text>
+<text text-anchor="start" x="591.523" y="-565.1351" font-family="Times,serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT06_GatesOfSecundus&#45;&gt;BT06_CHOICE3_WeakWallSegment -->
+<g id="edge3" class="edge">
+<title>BT06_GatesOfSecundus-&gt;BT06_CHOICE3_WeakWallSegment</title>
+<path fill="none" stroke="#000000" d="M593.273,-673.6239C593.273,-665.2211 593.273,-655.967 593.273,-646.8965"/>
+<polygon fill="#000000" stroke="#000000" points="596.7731,-646.7887 593.273,-636.7888 589.7731,-646.7888 596.7731,-646.7887"/>
+</g>
+<!-- BT07_District_01a -->
+<g id="node5" class="node">
+<title>BT07_District_01a</title>
+<ellipse fill="none" stroke="#000000" cx="143.273" cy="-363.6792" rx="143.0463" ry="25.4118"/>
+<text text-anchor="start" x="49.9637" y="-366.0792" font-family="Times,serif" font-size="14.00" fill="#000000">Maintain the Element of Surprise</text>
+<text text-anchor="start" x="104.78" y="-352.0792" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">Assassination</text>
+</g>
+<!-- BT06_CHOICE1_AttackVoidport&#45;&gt;BT07_District_01a -->
+<g id="edge4" class="edge">
+<title>BT06_CHOICE1_AttackVoidport-&gt;BT07_District_01a</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M318.2254,-444.3885C282.8124,-428.0517 239.0512,-407.8638 204.1549,-391.7653"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="205.5708,-388.5641 195.0243,-387.5532 202.6385,-394.9204 205.5708,-388.5641"/>
+<text text-anchor="start" x="270.273" y="-412.3351" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+2</text>
+</g>
+<!-- BT07_District_01b -->
+<g id="node6" class="node">
+<title>BT07_District_01b</title>
+<ellipse fill="none" stroke="#000000" cx="382.273" cy="-363.6792" rx="77.0724" ry="25.4118"/>
+<text text-anchor="start" x="335.6236" y="-366.0792" font-family="Times,serif" font-size="14.00" fill="#000000">Stay and Defend</text>
+<text text-anchor="start" x="359.3452" y="-352.0792" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">Defense</text>
+</g>
+<!-- BT06_CHOICE1_AttackVoidport&#45;&gt;BT07_District_01b -->
+<g id="edge5" class="edge">
+<title>BT06_CHOICE1_AttackVoidport-&gt;BT07_District_01b</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M382.273,-441.7481C382.273,-428.6078 382.273,-413.3509 382.273,-399.829"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="385.7731,-399.4303 382.273,-389.4304 378.7731,-399.4304 385.7731,-399.4303"/>
+<text text-anchor="start" x="382.273" y="-412.3351" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+2</text>
+</g>
+<!-- BT07_District_01c -->
+<g id="node7" class="node">
+<title>BT07_District_01c</title>
+<ellipse fill="none" stroke="#000000" cx="855.273" cy="-363.6792" rx="103.8602" ry="25.4118"/>
+<text text-anchor="start" x="789.9602" y="-366.0792" font-family="Times,serif" font-size="14.00" fill="#000000">Hit the Reinforcements</text>
+<text text-anchor="start" x="818.1359" y="-352.0792" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">Callous Hunt</text>
+</g>
+<!-- BT06_CHOICE2_OrbitalBarrage&#45;&gt;BT07_District_01c -->
+<g id="edge6" class="edge">
+<title>BT06_CHOICE2_OrbitalBarrage-&gt;BT07_District_01c</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M855.273,-441.7481C855.273,-428.6078 855.273,-413.3509 855.273,-399.829"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="858.7731,-399.4303 855.273,-389.4304 851.7731,-399.4304 858.7731,-399.4303"/>
+<text text-anchor="start" x="855.273" y="-412.3351" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+8</text>
+</g>
+<!-- BT08_District_02a -->
+<g id="node8" class="node">
+<title>BT08_District_02a</title>
+<ellipse fill="none" stroke="#000000" cx="844.273" cy="-259.9675" rx="87.9842" ry="25.4118"/>
+<text text-anchor="start" x="790.2302" y="-262.3675" font-family="Times,serif" font-size="14.00" fill="#000000">Assault the District</text>
+<text text-anchor="start" x="827.9441" y="-248.3675" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">Purge</text>
+</g>
+<!-- BT06_CHOICE2_OrbitalBarrage&#45;&gt;BT08_District_02a -->
+<g id="edge7" class="edge">
+<title>BT06_CHOICE2_OrbitalBarrage-&gt;BT08_District_02a</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M918.3959,-441.8803C938.0576,-428.4585 957.4166,-410.8555 968.273,-389.1351 978.3894,-368.8951 979.1988,-358.0382 968.273,-338.2234 955.1972,-314.5092 931.5767,-296.9907 908.4329,-284.6135"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="909.7677,-281.3658 899.2674,-279.9539 906.5954,-287.6057 909.7677,-281.3658"/>
+<text text-anchor="start" x="975.273" y="-360.4792" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+8</text>
+</g>
+<!-- BT07_District_01d -->
+<g id="node9" class="node">
+<title>BT07_District_01d</title>
+<ellipse fill="none" stroke="#000000" cx="593.273" cy="-473.9351" rx="81.8789" ry="25.4118"/>
+<text text-anchor="start" x="548.9567" y="-476.3351" font-family="Times,serif" font-size="14.00" fill="#000000">Attack the Wall</text>
+<text text-anchor="start" x="543.51" y="-462.3351" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">Silence The Guns</text>
+</g>
+<!-- BT06_CHOICE3_WeakWallSegment&#45;&gt;BT07_District_01d -->
+<g id="edge8" class="edge">
+<title>BT06_CHOICE3_WeakWallSegment-&gt;BT07_District_01d</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M593.273,-558.564C593.273,-542.9086 593.273,-525.0007 593.273,-509.7016"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="596.7731,-509.5865 593.273,-499.5865 589.7731,-509.5865 596.7731,-509.5865"/>
+<text text-anchor="start" x="593.273" y="-529.1351" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+5</text>
+</g>
+<!-- BT09_District_03 -->
+<g id="node10" class="node">
+<title>BT09_District_03</title>
+<ellipse fill="none" stroke="#000000" cx="579.273" cy="-156.2558" rx="109.9873" ry="25.4118"/>
+<text text-anchor="start" x="509.6727" y="-158.6558" font-family="Times,serif" font-size="14.00" fill="#000000">Rebel Command Bunker</text>
+<text text-anchor="start" x="553.6145" y="-144.6558" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">Sabotage</text>
+</g>
+<!-- BT07_District_01a&#45;&gt;BT09_District_03 -->
+<g id="edge9" class="edge">
+<title>BT07_District_01a-&gt;BT09_District_03</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M167.2746,-338.5248C194.5061,-310.8616 241.0682,-266.1445 286.5932,-234.5117 339.8785,-197.4866 409.7736,-177.9731 467.8967,-167.6918"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="468.5883,-171.1246 477.8605,-165.9986 467.4154,-164.2235 468.5883,-171.1246"/>
+<text text-anchor="start" x="287.273" y="-256.7675" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+3</text>
+</g>
+<!-- BT08_District_02b -->
+<g id="node11" class="node">
+<title>BT08_District_02b</title>
+<ellipse fill="none" stroke="#000000" cx="522.273" cy="-259.9675" rx="146.7054" ry="25.4118"/>
+<text text-anchor="start" x="426.4325" y="-262.3675" font-family="Times,serif" font-size="14.00" fill="#000000">Attack the Administratum District</text>
+<text text-anchor="start" x="506.7218" y="-248.3675" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">Siege</text>
+</g>
+<!-- BT07_District_01a&#45;&gt;BT08_District_02b -->
+<g id="edge10" class="edge">
+<title>BT07_District_01a-&gt;BT08_District_02b</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M221.3425,-342.3158C283.1764,-325.3953 369.56,-301.7568 433.9224,-284.1443"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="434.9325,-287.4966 443.6541,-281.4813 433.0849,-280.7449 434.9325,-287.4966"/>
+<text text-anchor="start" x="355.273" y="-308.6234" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+10</text>
+</g>
+<!-- BT07_District_01b&#45;&gt;BT09_District_03 -->
+<g id="edge11" class="edge">
+<title>BT07_District_01b-&gt;BT09_District_03</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M359.4356,-338.9443C336.9198,-311.4529 309.0379,-266.6965 332.5932,-234.5117 351.0682,-209.2683 422.4294,-188.3332 483.6771,-174.4881"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="484.7965,-177.825 493.8012,-172.2423 483.2805,-170.9911 484.7965,-177.825"/>
+<text text-anchor="start" x="332.273" y="-256.7675" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+4</text>
+</g>
+<!-- BT07_District_01b&#45;&gt;BT08_District_02b -->
+<g id="edge12" class="edge">
+<title>BT07_District_01b-&gt;BT08_District_02b</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M406.2895,-339.1609C418.18,-327.6538 433.0718,-314.1462 447.5932,-303.4234 453.9567,-298.7244 460.8675,-294.1174 467.83,-289.7638"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="469.9204,-292.5887 476.6396,-284.397 466.2786,-286.6107 469.9204,-292.5887"/>
+<text text-anchor="start" x="447.273" y="-308.6234" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+8</text>
+</g>
+<!-- BT07_District_01c&#45;&gt;BT08_District_02a -->
+<g id="edge14" class="edge">
+<title>BT07_District_01c-&gt;BT08_District_02a</title>
+<path fill="none" stroke="#fd9d43" stroke-width="2" d="M852.5539,-338.0426C851.2053,-325.3278 849.554,-309.759 848.0818,-295.8787"/>
+<polygon fill="#fd9d43" stroke="#fd9d43" stroke-width="2" points="851.5342,-295.2437 846.9989,-285.6687 844.5733,-295.9821 851.5342,-295.2437"/>
+<text text-anchor="start" x="850.273" y="-308.6234" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+1/+2</text>
+</g>
+<!-- BT07_District_01c&#45;&gt;BT09_District_03 -->
+<g id="edge13" class="edge">
+<title>BT07_District_01c-&gt;BT09_District_03</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M802.4224,-341.6683C774.0528,-328.1729 739.6627,-308.9635 713.5932,-285.4234 693.1535,-266.9668 697.1296,-254.5828 678.273,-234.5117 661.7518,-216.9264 641.1229,-199.9883 622.9785,-186.3952"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="624.9661,-183.5123 614.8403,-180.3948 620.812,-189.1464 624.9661,-183.5123"/>
+<text text-anchor="start" x="713.273" y="-256.7675" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+3/+3</text>
+</g>
+<!-- BT07_District_01c&#45;&gt;BT08_District_02b -->
+<g id="edge15" class="edge">
+<title>BT07_District_01c-&gt;BT08_District_02b</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M781.9808,-345.5961C753.6003,-338.2353 720.9387,-329.3235 691.5932,-320.2234 659.0546,-310.133 623.4718,-297.6891 593.3603,-286.7347"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="594.3808,-283.3812 583.7869,-283.2353 591.9775,-289.9558 594.3808,-283.3812"/>
+<text text-anchor="start" x="691.273" y="-308.6234" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+6</text>
+</g>
+<!-- BT08_District_02a&#45;&gt;BT09_District_03 -->
+<g id="edge18" class="edge">
+<title>BT08_District_02a-&gt;BT09_District_03</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M831.6832,-234.7007C824.2198,-222.2838 813.6021,-208.2011 800.273,-199.7117 780.9151,-187.3825 732.8424,-177.2232 686.459,-169.8361"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="686.7071,-166.3327 676.2881,-168.255 685.6318,-173.2496 686.7071,-166.3327"/>
+<text text-anchor="start" x="818.273" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+3</text>
+</g>
+<!-- BT08_District_02a&#45;&gt;BT09_District_03 -->
+<g id="edge19" class="edge">
+<title>BT08_District_02a-&gt;BT09_District_03</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M801.8738,-237.5919C777.9962,-225.4855 747.4055,-210.7879 719.273,-199.7117 700.1438,-192.1802 679.1469,-185.0749 659.3657,-178.8767"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="660.3538,-175.5187 649.7662,-175.9089 658.2862,-182.2064 660.3538,-175.5187"/>
+<text text-anchor="start" x="757.273" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+5</text>
+</g>
+<!-- BT07_District_01d&#45;&gt;BT08_District_02b -->
+<g id="edge16" class="edge">
+<title>BT07_District_01d-&gt;BT08_District_02b</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M557.426,-450.6885C537.8257,-435.7388 515.3923,-414.4037 504.5932,-389.1351 491.8158,-359.2376 498.9446,-322.2226 507.6629,-295.4913"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="511.0593,-296.3809 511.0439,-285.7861 504.4489,-294.078 511.0593,-296.3809"/>
+<text text-anchor="start" x="504.273" y="-360.4792" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+1/+4</text>
+</g>
+<!-- BT08_District_02c -->
+<g id="node12" class="node">
+<title>BT08_District_02c</title>
+<ellipse fill="none" stroke="#000000" cx="640.273" cy="-363.6792" rx="92.9018" ry="25.4118"/>
+<text text-anchor="start" x="582.5468" y="-366.0792" font-family="Times,serif" font-size="14.00" fill="#000000">Break the rebel lines</text>
+<text text-anchor="start" x="623.9441" y="-352.0792" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">Purge</text>
+</g>
+<!-- BT07_District_01d&#45;&gt;BT08_District_02c -->
+<g id="edge17" class="edge">
+<title>BT07_District_01d-&gt;BT08_District_02c</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M604.0557,-448.6401C610.3992,-433.7592 618.5118,-414.7281 625.4503,-398.4513"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="628.6759,-399.8098 629.3777,-389.2382 622.2365,-397.0648 628.6759,-399.8098"/>
+<text text-anchor="start" x="620.273" y="-412.3351" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+6</text>
+</g>
+<!-- BT10_InquisitorData -->
+<g id="node13" class="node">
+<title>BT10_InquisitorData</title>
+<polygon fill="none" stroke="#000000" points="663.6705,-78 494.8755,-78 494.8755,0 663.6705,0 663.6705,-78"/>
+<text text-anchor="start" x="539.4129" y="-48.4" font-family="Times,serif" font-size="14.00" fill="#000000">Continue with</text>
+<text text-anchor="start" x="503.0745" y="-20.4" font-family="Times,serif" font-weight="bold" font-size="14.00" fill="#000000">The Data of the Inquisitor</text>
+<text text-anchor="start" x="648.4715" y="-20.4" font-family="Times,serif" font-size="14.00" fill="#000000">  </text>
+<text text-anchor="start" x="574.023" y="-6.4" font-family="Times,serif" font-size="14.00" fill="#000000">   </text>
+</g>
+<!-- BT09_District_03&#45;&gt;BT10_InquisitorData -->
+<g id="edge23" class="edge">
+<title>BT09_District_03-&gt;BT10_InquisitorData</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M560.6926,-131.1533C557.3546,-125.3951 554.3741,-119.1044 552.5932,-112.8 550.2773,-104.6015 550.6846,-96.005 552.6229,-87.694"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="555.9766,-88.6952 555.5302,-78.1098 549.278,-86.6632 555.9766,-88.6952"/>
+<text text-anchor="start" x="552.273" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+2</text>
+</g>
+<!-- BT09_District_03&#45;&gt;BT10_InquisitorData -->
+<g id="edge24" class="edge">
+<title>BT09_District_03-&gt;BT10_InquisitorData</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M584.1013,-130.6021C585.0046,-124.771 585.8097,-118.5892 586.273,-112.8 586.9082,-104.8621 586.8275,-96.45 586.3397,-88.2568"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="589.8096,-87.7387 585.5275,-78.0479 582.8317,-88.294 589.8096,-87.7387"/>
+<text text-anchor="start" x="586.273" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+4</text>
+</g>
+<!-- BT08_District_02b&#45;&gt;BT09_District_03 -->
+<g id="edge20" class="edge">
+<title>BT08_District_02b-&gt;BT09_District_03</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M518.0854,-234.4609C517.4126,-223.2588 518.2911,-210.2801 523.5932,-199.7117 525.8132,-195.2865 528.718,-191.1762 532.0363,-187.3916"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="534.7468,-189.6307 539.3414,-180.0839 529.7962,-184.6818 534.7468,-189.6307"/>
+<text text-anchor="start" x="523.273" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+3</text>
+</g>
+<!-- BT08_District_02b&#45;&gt;BT09_District_03 -->
+<g id="edge21" class="edge">
+<title>BT08_District_02b-&gt;BT09_District_03</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M544.8455,-234.7704C549.3366,-229.0181 553.7482,-222.7537 557.273,-216.5117 561.6811,-208.7054 565.4923,-199.8504 568.6461,-191.3781"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="572.0357,-192.2888 572.0428,-181.694 565.4303,-189.9719 572.0357,-192.2888"/>
+<text text-anchor="start" x="564.273" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+6</text>
+</g>
+<!-- BT08_District_02c&#45;&gt;BT08_District_02a -->
+<g id="edge22" class="edge">
+<title>BT08_District_02c-&gt;BT08_District_02a</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M684.5379,-341.1753C715.9221,-325.2199 758.1796,-303.7366 791.3478,-286.8742"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="793.1173,-289.901 800.4453,-282.2491 789.9449,-283.6611 793.1173,-289.901"/>
+<text text-anchor="start" x="754.273" y="-308.6234" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+1/+3</text>
+</g>
+</g>
+</svg>

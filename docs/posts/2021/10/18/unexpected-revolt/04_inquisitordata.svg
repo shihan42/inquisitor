@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="1350pt" height="788pt" viewBox="0.00 0.00 1350.08 788.42" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 784.4203)">
+<title>inquisitordata</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-784.4203 1346.0786,-784.4203 1346.0786,4 -4,4"/>
+<!-- BT10_InquisitorData -->
+<g id="node1" class="node">
+<title>BT10_InquisitorData</title>
+<polygon fill="none" stroke="#000000" points="776.6132,-780.4203 603.299,-780.4203 603.299,-716.4203 776.6132,-716.4203 776.6132,-780.4203"/>
+<text text-anchor="start" x="663.5031" y="-750.8203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Part IIIa:</text>
+<text text-anchor="start" x="611.3776" y="-736.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">The Data of the Inquisitor</text>
+<text text-anchor="start" x="688.0108" y="-722.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT10_CHOICE1 -->
+<g id="node2" class="node">
+<title>BT10_CHOICE1</title>
+<polygon fill="none" stroke="#000000" points="462.7193,-679.4203 327.1929,-679.4203 327.1929,-615.4203 462.7193,-615.4203 462.7193,-679.4203"/>
+<text text-anchor="start" x="371.2303" y="-649.8203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="335.0746" y="-635.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Access file: 'AEOS'</text>
+<text text-anchor="start" x="393.0108" y="-621.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT10_InquisitorData&#45;&gt;BT10_CHOICE1 -->
+<g id="edge1" class="edge">
+<title>BT10_InquisitorData-&gt;BT10_CHOICE1</title>
+<path fill="none" stroke="#000000" d="M603.0419,-718.6633C561.6608,-704.4955 512.5794,-687.6914 472.4796,-673.9623"/>
+<polygon fill="#000000" stroke="#000000" points="473.6116,-670.6505 463.0171,-670.7226 471.3442,-677.2731 473.6116,-670.6505"/>
+</g>
+<!-- BT10_CHOICE2 -->
+<g id="node3" class="node">
+<title>BT10_CHOICE2</title>
+<polygon fill="none" stroke="#000000" points="676.9197,-679.4203 534.9925,-679.4203 534.9925,-615.4203 676.9197,-615.4203 676.9197,-679.4203"/>
+<text text-anchor="start" x="582.2303" y="-649.8203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="542.9743" y="-635.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Access file: 'Mystral'</text>
+<text text-anchor="start" x="604.0108" y="-621.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT10_InquisitorData&#45;&gt;BT10_CHOICE2 -->
+<g id="edge2" class="edge">
+<title>BT10_InquisitorData-&gt;BT10_CHOICE2</title>
+<path fill="none" stroke="#000000" d="M663.147,-716.1856C655.5698,-707.0749 647.2302,-697.0476 639.3181,-687.5342"/>
+<polygon fill="#000000" stroke="#000000" points="641.884,-685.1457 632.7986,-679.6953 636.502,-689.6218 641.884,-685.1457"/>
+</g>
+<!-- BT10_CHOICE3 -->
+<g id="node4" class="node">
+<title>BT10_CHOICE3</title>
+<polygon fill="none" stroke="#000000" points="981.2016,-679.4203 748.7106,-679.4203 748.7106,-615.4203 981.2016,-615.4203 981.2016,-679.4203"/>
+<text text-anchor="start" x="841.2303" y="-649.8203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="756.8334" y="-635.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Access file: 'Prophets of Opulence'</text>
+<text text-anchor="start" x="863.0108" y="-621.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT10_InquisitorData&#45;&gt;BT10_CHOICE3 -->
+<g id="edge3" class="edge">
+<title>BT10_InquisitorData-&gt;BT10_CHOICE3</title>
+<path fill="none" stroke="#000000" d="M745.8083,-716.1856C763.2588,-706.1142 782.65,-694.9227 800.6337,-684.5436"/>
+<polygon fill="#000000" stroke="#000000" points="802.4227,-687.5522 809.3342,-679.5221 798.9236,-681.4895 802.4227,-687.5522"/>
+</g>
+<!-- BT10_CHOICE4 -->
+<g id="node5" class="node">
+<title>BT10_CHOICE4</title>
+<polygon fill="none" stroke="#000000" points="1234.6282,-679.4203 1053.284,-679.4203 1053.284,-615.4203 1234.6282,-615.4203 1234.6282,-679.4203"/>
+<text text-anchor="start" x="1120.2303" y="-649.8203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="1061.1202" y="-635.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Access file: 'Report L5517'</text>
+<text text-anchor="start" x="1142.0108" y="-621.8203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT10_InquisitorData&#45;&gt;BT10_CHOICE4 -->
+<g id="edge4" class="edge">
+<title>BT10_InquisitorData-&gt;BT10_CHOICE4</title>
+<path fill="none" stroke="#000000" d="M776.5628,-731.1011C842.5907,-717.6658 935.6981,-698.2232 1016.9561,-679.4203 1025.4865,-677.4464 1034.3242,-675.3423 1043.1837,-673.1918"/>
+<polygon fill="#000000" stroke="#000000" points="1044.2972,-676.5227 1053.1804,-670.7486 1042.6353,-669.7229 1044.2972,-676.5227"/>
+</g>
+<!-- BT11_Onward -->
+<g id="node6" class="node">
+<title>BT11_Onward</title>
+<polygon fill="none" stroke="#000000" points="797.3677,-562.6203 672.5445,-562.6203 672.5445,-498.6203 797.3677,-498.6203 797.3677,-562.6203"/>
+<text text-anchor="start" x="708.5031" y="-533.0203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Part IIIb:</text>
+<text text-anchor="start" x="680.5003" y="-519.0203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Continue the War</text>
+<text text-anchor="start" x="733.0108" y="-505.0203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT10_CHOICE1&#45;&gt;BT11_Onward -->
+<g id="edge5" class="edge">
+<title>BT10_CHOICE1-&gt;BT11_Onward</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M462.943,-624.0648C520.8596,-604.1688 603.8439,-575.6612 662.8975,-555.3746"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="664.2088,-558.625 672.5291,-552.0658 661.9345,-552.0047 664.2088,-558.625"/>
+<text text-anchor="start" x="585.9561" y="-585.8203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+0</text>
+</g>
+<!-- BT10_CHOICE2&#45;&gt;BT11_Onward -->
+<g id="edge6" class="edge">
+<title>BT10_CHOICE2-&gt;BT11_Onward</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M641.5474,-615.195C657.057,-601.1522 675.3784,-584.5636 691.6684,-569.8141"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="694.4172,-572.0469 699.481,-562.7405 689.7189,-566.8578 694.4172,-572.0469"/>
+<text text-anchor="start" x="678.9561" y="-585.8203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+0</text>
+</g>
+<!-- BT10_CHOICE3&#45;&gt;BT11_Onward -->
+<g id="edge7" class="edge">
+<title>BT10_CHOICE3-&gt;BT11_Onward</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M829.0889,-615.195C813.4591,-601.1522 794.9956,-584.5636 778.5793,-569.8141"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="780.4841,-566.8203 770.7062,-562.7405 775.8057,-572.0274 780.4841,-566.8203"/>
+<text text-anchor="start" x="807.9561" y="-585.8203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+0</text>
+</g>
+<!-- BT10_CHOICE4&#45;&gt;BT11_Onward -->
+<g id="edge8" class="edge">
+<title>BT10_CHOICE4-&gt;BT11_Onward</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M1053.1857,-621.4986C979.1636,-600.3598 875.9919,-570.8966 807.4199,-551.3142"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="808.1381,-547.8794 797.5614,-548.4988 806.2159,-554.6103 808.1381,-547.8794"/>
+<text text-anchor="start" x="963.9561" y="-585.8203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+0</text>
+</g>
+<!-- BT11_CHOICE1_PrometheumFields -->
+<g id="node7" class="node">
+<title>BT11_CHOICE1_PrometheumFields</title>
+<polygon fill="none" stroke="#000000" points="571.8001,-461.6203 434.1121,-461.6203 434.1121,-397.6203 571.8001,-397.6203 571.8001,-461.6203"/>
+<text text-anchor="start" x="479.2303" y="-432.0203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="442.2843" y="-418.0203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Prometheum Fields</text>
+<text text-anchor="start" x="501.0108" y="-404.0203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT11_Onward&#45;&gt;BT11_CHOICE1_PrometheumFields -->
+<g id="edge9" class="edge">
+<title>BT11_Onward-&gt;BT11_CHOICE1_PrometheumFields</title>
+<path fill="none" stroke="#000000" d="M672.4792,-503.4213C644.3834,-491.19 610.9223,-476.6229 581.1804,-463.6749"/>
+<polygon fill="#000000" stroke="#000000" points="582.2321,-460.3155 571.6662,-459.5329 579.4379,-466.7337 582.2321,-460.3155"/>
+</g>
+<!-- BT11_CHOICE2_CaldoranCrags -->
+<g id="node8" class="node">
+<title>BT11_CHOICE2_CaldoranCrags</title>
+<polygon fill="none" stroke="#000000" points="791.9659,-461.6203 677.9463,-461.6203 677.9463,-397.6203 791.9659,-397.6203 791.9659,-461.6203"/>
+<text text-anchor="start" x="711.2303" y="-432.0203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="685.9512" y="-418.0203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Caldoran Crags</text>
+<text text-anchor="start" x="733.0108" y="-404.0203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT11_Onward&#45;&gt;BT11_CHOICE2_CaldoranCrags -->
+<g id="edge10" class="edge">
+<title>BT11_Onward-&gt;BT11_CHOICE2_CaldoranCrags</title>
+<path fill="none" stroke="#000000" d="M734.9561,-498.3856C734.9561,-490.0038 734.9561,-480.8461 734.9561,-472.0265"/>
+<polygon fill="#000000" stroke="#000000" points="738.4562,-471.8952 734.9561,-461.8953 731.4562,-471.8953 738.4562,-471.8952"/>
+</g>
+<!-- BT11_CHOICE3_OctadonPeninsula -->
+<g id="node9" class="node">
+<title>BT11_CHOICE3_OctadonPeninsula</title>
+<polygon fill="none" stroke="#000000" points="1129.2214,-461.6203 994.6908,-461.6203 994.6908,-397.6203 1129.2214,-397.6203 1129.2214,-461.6203"/>
+<text text-anchor="start" x="1038.2303" y="-432.0203" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="1002.8236" y="-418.0203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Octadon Peninsula</text>
+<text text-anchor="start" x="1060.0108" y="-404.0203" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT11_Onward&#45;&gt;BT11_CHOICE3_OctadonPeninsula -->
+<g id="edge11" class="edge">
+<title>BT11_Onward-&gt;BT11_CHOICE3_OctadonPeninsula</title>
+<path fill="none" stroke="#000000" d="M797.6181,-511.266C850.9992,-494.7783 927.908,-471.0236 985.0177,-453.3842"/>
+<polygon fill="#000000" stroke="#000000" points="986.2004,-456.6821 994.7221,-450.3868 984.1346,-449.9939 986.2004,-456.6821"/>
+</g>
+<!-- BT12_PRFields -->
+<g id="node10" class="node">
+<title>BT12_PRFields</title>
+<ellipse fill="none" stroke="#000000" cx="342.9561" cy="-319.3645" rx="97.2333" ry="25.4118"/>
+<text text-anchor="start" x="282.2843" y="-321.7645" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Prometheum Fields</text>
+<text text-anchor="start" x="328.1749" y="-307.7645" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Hunt</text>
+</g>
+<!-- BT11_CHOICE1_PrometheumFields&#45;&gt;BT12_PRFields -->
+<g id="edge12" class="edge">
+<title>BT11_CHOICE1_PrometheumFields-&gt;BT12_PRFields</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M456.2474,-397.4334C434.0171,-382.1146 407.6126,-363.9193 385.8894,-348.9498"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="387.727,-345.9656 377.5067,-343.1733 383.755,-351.7296 387.727,-345.9656"/>
+<text text-anchor="start" x="427.9561" y="-368.0203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+0</text>
+</g>
+<!-- BT12_BleachCrags -->
+<g id="node11" class="node">
+<title>BT12_BleachCrags</title>
+<ellipse fill="none" stroke="#000000" cx="734.9561" cy="-319.3645" rx="105.8682" ry="25.4118"/>
+<text text-anchor="start" x="668.0494" y="-321.7645" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Purge the rebel camp</text>
+<text text-anchor="start" x="716.2836" y="-307.7645" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Purge</text>
+</g>
+<!-- BT11_CHOICE2_CaldoranCrags&#45;&gt;BT12_BleachCrags -->
+<g id="edge13" class="edge">
+<title>BT11_CHOICE2_CaldoranCrags-&gt;BT12_BleachCrags</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M734.9561,-397.4334C734.9561,-384.293 734.9561,-369.0362 734.9561,-355.5143"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="738.4562,-355.1156 734.9561,-345.1156 731.4562,-355.1157 738.4562,-355.1156"/>
+<text text-anchor="start" x="734.9561" y="-368.0203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+0</text>
+</g>
+<!-- BT12_Peninsula -->
+<g id="node12" class="node">
+<title>BT12_Peninsula</title>
+<ellipse fill="none" stroke="#000000" cx="1133.9561" cy="-319.3645" rx="141.2675" ry="25.4118"/>
+<text text-anchor="start" x="1042.1595" y="-321.7645" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Destroy the command bunker</text>
+<text text-anchor="start" x="1086.4975" y="-307.7645" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Bunker Busting</text>
+</g>
+<!-- BT11_CHOICE3_OctadonPeninsula&#45;&gt;BT12_Peninsula -->
+<g id="edge14" class="edge">
+<title>BT11_CHOICE3_OctadonPeninsula-&gt;BT12_Peninsula</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M1082.975,-397.4334C1092.0496,-383.5373 1102.6699,-367.2741 1111.8612,-353.1991"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="1114.8357,-355.0455 1117.3729,-344.7589 1108.9747,-351.218 1114.8357,-355.0455"/>
+<text text-anchor="start" x="1104.9561" y="-368.0203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+0</text>
+</g>
+<!-- BT13_RebelGeneral -->
+<g id="node13" class="node">
+<title>BT13_RebelGeneral</title>
+<ellipse fill="none" stroke="#000000" cx="182.9561" cy="-185.9543" rx="182.9122" ry="45.011"/>
+<text text-anchor="start" x="100.8769" y="-202.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Capture General Von Keel</text>
+<text text-anchor="start" x="165.0606" y="-188.3543" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Siege</text>
+<text text-anchor="start" x="61.5866" y="-160.3543" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Clue 4:</text>
+<text text-anchor="start" x="105.9288" y="-160.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   Message to General Von Keel</text>
+</g>
+<!-- BT12_PRFields&#45;&gt;BT13_RebelGeneral -->
+<g id="edge15" class="edge">
+<title>BT12_PRFields-&gt;BT13_RebelGeneral</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M247.8502,-313.8893C190.9237,-308.4004 126.2288,-297.4906 108.2763,-275.9087 97.5341,-262.9947 101.5416,-249.0295 111.8852,-236.0423"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="114.5613,-238.3007 118.6438,-228.524 109.3555,-233.6209 114.5613,-238.3007"/>
+<text text-anchor="start" x="108.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+2</text>
+</g>
+<!-- BT12_PRFields&#45;&gt;BT13_RebelGeneral -->
+<g id="edge17" class="edge">
+<title>BT12_PRFields-&gt;BT13_RebelGeneral</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M266.3092,-303.6999C249.2455,-297.3321 232.3603,-288.4059 219.2763,-275.9087 209.377,-266.4533 202.1025,-253.9339 196.7839,-241.2494"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="199.9233,-239.6594 193.0869,-231.5654 193.3836,-242.156 199.9233,-239.6594"/>
+<text text-anchor="start" x="219.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+4</text>
+</g>
+<!-- BT13_InterrogatorSiech -->
+<g id="node14" class="node">
+<title>BT13_InterrogatorSiech</title>
+<ellipse fill="none" stroke="#000000" cx="563.9561" cy="-185.9543" rx="126.0693" ry="25.4118"/>
+<text text-anchor="start" x="482.6595" y="-188.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Rescue Interrogator Siech</text>
+<text text-anchor="start" x="527.0045" y="-174.3543" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Intel Pursuit</text>
+</g>
+<!-- BT12_PRFields&#45;&gt;BT13_InterrogatorSiech -->
+<g id="edge16" class="edge">
+<title>BT12_PRFields-&gt;BT13_InterrogatorSiech</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M328.9977,-294.0853C324.5717,-282.4049 322.5842,-268.9712 330.2763,-259.1087 350.477,-233.208 370.4537,-250.4096 401.9561,-241.1087 431.9058,-232.2661 464.571,-221.3872 492.6732,-211.6346"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="494.1221,-214.836 502.411,-208.2371 491.8162,-208.2267 494.1221,-214.836"/>
+<text text-anchor="start" x="330.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+2</text>
+</g>
+<!-- BT12_PRFields&#45;&gt;BT13_InterrogatorSiech -->
+<g id="edge18" class="edge">
+<title>BT12_PRFields-&gt;BT13_InterrogatorSiech</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M381.7043,-295.9736C418.8406,-273.5556 475.0258,-239.6385 515.1891,-215.3933"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="517.0052,-218.3853 523.7575,-210.2209 513.3876,-212.3926 517.0052,-218.3853"/>
+<text text-anchor="start" x="440.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+4</text>
+</g>
+<!-- BT12_BleachCrags&#45;&gt;BT13_InterrogatorSiech -->
+<g id="edge19" class="edge">
+<title>BT12_BleachCrags-&gt;BT13_InterrogatorSiech</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M640.5747,-307.7686C602.1066,-300.9252 563.9219,-290.6494 552.2763,-275.9087 540.2502,-260.6862 542.5025,-239.2845 548.0764,-221.1754"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="551.4577,-222.1084 551.4452,-211.5136 544.8479,-219.8038 551.4577,-222.1084"/>
+<text text-anchor="start" x="552.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+6</text>
+</g>
+<!-- BT12_BleachCrags&#45;&gt;BT13_InterrogatorSiech -->
+<g id="edge21" class="edge">
+<title>BT12_BleachCrags-&gt;BT13_InterrogatorSiech</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M693.1377,-295.8525C683.1116,-289.7184 672.6111,-282.8658 663.2763,-275.9087 639.7731,-258.392 615.3457,-236.327 596.5974,-218.4343"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="598.5594,-215.4644 588.9294,-211.0469 593.7027,-220.5056 598.5594,-215.4644"/>
+<text text-anchor="start" x="663.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+10</text>
+</g>
+<!-- BT13_Heretic -->
+<g id="node15" class="node">
+<title>BT13_Heretic</title>
+<ellipse fill="none" stroke="#000000" cx="918.9561" cy="-185.9543" rx="156.5588" ry="55.3091"/>
+<text text-anchor="start" x="865.2836" y="-209.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Capture Giltlocke</text>
+<text text-anchor="start" x="900.2836" y="-195.3543" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Purge</text>
+<text text-anchor="start" x="816.2731" y="-167.3543" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Clue 5:</text>
+<text text-anchor="start" x="860.6153" y="-167.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   Message from Inquisitor</text>
+<text text-anchor="start" x="855.562" y="-153.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Houlikos to Giltlocke</text>
+</g>
+<!-- BT12_BleachCrags&#45;&gt;BT13_Heretic -->
+<g id="edge20" class="edge">
+<title>BT12_BleachCrags-&gt;BT13_Heretic</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M750.668,-294.1785C758.7994,-282.5193 769.4877,-269.0766 781.2763,-259.1087 791.505,-250.4597 802.9241,-242.4209 814.6911,-235.0795"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="816.5697,-238.0337 823.3088,-229.8584 812.9424,-232.0467 816.5697,-238.0337"/>
+<text text-anchor="start" x="781.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+6</text>
+</g>
+<!-- BT12_BleachCrags&#45;&gt;BT13_Heretic -->
+<g id="edge22" class="edge">
+<title>BT12_BleachCrags-&gt;BT13_Heretic</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M790.4271,-297.6558C803.556,-291.4671 817.1595,-284.1375 828.9561,-275.9087 841.4411,-267.1996 853.7255,-256.6617 865.0128,-245.9105"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="867.5582,-248.3171 872.2782,-238.8317 862.6733,-243.3033 867.5582,-248.3171"/>
+<text text-anchor="start" x="848.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+10</text>
+</g>
+<!-- BT12_Peninsula&#45;&gt;BT13_Heretic -->
+<g id="edge24" class="edge">
+<title>BT12_Peninsula-&gt;BT13_Heretic</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M1056.3193,-297.9773C1040.4848,-292.0166 1024.3714,-284.7039 1010.2763,-275.9087 996.957,-267.5975 984.0437,-257.0359 972.324,-246.0952"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="974.4392,-243.2738 964.8027,-238.8707 969.5901,-248.3222 974.4392,-243.2738"/>
+<text text-anchor="start" x="1010.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+4</text>
+</g>
+<!-- BT12_Peninsula&#45;&gt;BT13_Heretic -->
+<g id="edge26" class="edge">
+<title>BT12_Peninsula-&gt;BT13_Heretic</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M1104.9527,-294.2821C1091.1653,-282.9116 1074.1808,-269.6786 1057.9561,-259.1087 1045.7962,-251.1868 1032.6849,-243.3972 1019.5433,-236.0271"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="1020.896,-232.7755 1010.4518,-230.9954 1017.5063,-238.9001 1020.896,-232.7755"/>
+<text text-anchor="start" x="1079.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+6</text>
+</g>
+<!-- BT13_SubstationXMZ4 -->
+<g id="node16" class="node">
+<title>BT13_SubstationXMZ4</title>
+<ellipse fill="none" stroke="#000000" cx="1244.9561" cy="-185.9543" rx="97.2452" ry="25.4118"/>
+<text text-anchor="start" x="1184.2801" y="-188.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Clear the warp taint</text>
+<text text-anchor="start" x="1216.5557" y="-174.3543" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Datahunt</text>
+</g>
+<!-- BT12_Peninsula&#45;&gt;BT13_SubstationXMZ4 -->
+<g id="edge23" class="edge">
+<title>BT12_Peninsula-&gt;BT13_SubstationXMZ4</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M1155.0956,-293.957C1172.7636,-272.722 1198.0908,-242.2814 1217.3562,-219.1265"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="1220.1899,-221.193 1223.8953,-211.2672 1214.8088,-216.7158 1220.1899,-221.193"/>
+<text text-anchor="start" x="1181.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+4</text>
+</g>
+<!-- BT12_Peninsula&#45;&gt;BT13_SubstationXMZ4 -->
+<g id="edge25" class="edge">
+<title>BT12_Peninsula-&gt;BT13_SubstationXMZ4</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M1208.6005,-297.6687C1218.3619,-291.9909 1227.275,-284.8583 1233.9561,-275.9087 1245.3644,-260.6267 1248.4355,-239.6498 1248.5068,-221.7969"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="1252.0035,-221.6179 1248.2426,-211.7131 1245.0059,-221.8014 1252.0035,-221.6179"/>
+<text text-anchor="start" x="1241.9561" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+6</text>
+</g>
+<!-- BT14_Judgement -->
+<g id="node17" class="node">
+<title>BT14_Judgement</title>
+<polygon fill="none" stroke="#000000" points="764.9967,-78 594.9155,-78 594.9155,0 764.9967,0 764.9967,-78"/>
+<text text-anchor="start" x="667.5052" y="-48.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">End</text>
+<text text-anchor="start" x="602.9358" y="-20.4" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Judgement of Houlikos </text>
+<text text-anchor="start" x="749.1952" y="-20.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">  </text>
+<text text-anchor="start" x="674.1202" y="-6.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   </text>
+</g>
+<!-- BT13_RebelGeneral&#45;&gt;BT14_Judgement -->
+<g id="edge27" class="edge">
+<title>BT13_RebelGeneral-&gt;BT14_Judgement</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M300.4234,-151.2213C387.302,-125.5328 504.1091,-90.9949 585.0914,-67.0499"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="586.1881,-70.3754 594.7853,-64.1835 584.2033,-63.6627 586.1881,-70.3754"/>
+<text text-anchor="start" x="476.9561" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+3</text>
+</g>
+<!-- BT13_InterrogatorSiech&#45;&gt;BT14_Judgement -->
+<g id="edge28" class="edge">
+<title>BT13_InterrogatorSiech-&gt;BT14_Judgement</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M583.8972,-160.692C600.0883,-140.1803 623.3639,-110.6937 642.9483,-85.8833"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="645.7148,-88.0274 649.1635,-78.0095 640.2203,-83.6902 645.7148,-88.0274"/>
+<text text-anchor="start" x="632.9561" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+3</text>
+</g>
+<!-- BT13_Heretic&#45;&gt;BT14_Judgement -->
+<g id="edge30" class="edge">
+<title>BT13_Heretic-&gt;BT14_Judgement</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M841.0293,-138.0393C812.3889,-120.4292 780.109,-100.5812 752.0082,-83.3028"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="753.7819,-80.2847 743.4301,-78.0284 750.1154,-86.2477 753.7819,-80.2847"/>
+<text text-anchor="start" x="799.9561" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+3</text>
+</g>
+<!-- BT13_SubstationXMZ4&#45;&gt;BT14_Judgement -->
+<g id="edge29" class="edge">
+<title>BT13_SubstationXMZ4-&gt;BT14_Judgement</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M1197.4131,-163.7409C1172.3914,-152.6929 1140.9597,-139.8115 1111.9561,-130.8 998.2675,-95.4766 863.5729,-69.2322 775.1735,-54.0476"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="775.6089,-50.5715 765.163,-52.3414 774.4327,-57.472 775.6089,-50.5715"/>
+<text text-anchor="start" x="1042.9561" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+3</text>
+</g>
+</g>
+</svg>

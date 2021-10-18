@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="648pt" height="552pt" viewBox="0.00 0.00 648.36 551.73" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 547.733)">
+<title>investigation_a</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-547.733 644.363,-547.733 644.363,4 -4,4"/>
+<!-- BT03_Hinterlands -->
+<g id="node1" class="node">
+<title>BT03_Hinterlands</title>
+<polygon fill="none" stroke="#000000" points="455.0822,-543.733 329.693,-543.733 329.693,-465.733 455.0822,-465.733 455.0822,-543.733"/>
+<text text-anchor="start" x="368.6618" y="-514.133" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="346.8834" y="-500.133" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">After Giltlocke,</text>
+<text text-anchor="start" x="337.5405" y="-486.133" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">to the Hinterlands</text>
+<text text-anchor="start" x="390.4423" y="-472.133" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT03_Hinterlands_01a -->
+<g id="node2" class="node">
+<title>BT03_Hinterlands_01a</title>
+<ellipse fill="none" stroke="#000000" cx="247.3876" cy="-403.2772" rx="118.703" ry="25.4118"/>
+<text text-anchor="start" x="171.5237" y="-405.6772" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Drop at the Landing Pad</text>
+<text text-anchor="start" x="199.929" y="-391.6772" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Bunker Busting</text>
+</g>
+<!-- BT03_Hinterlands&#45;&gt;BT03_Hinterlands_01a -->
+<g id="edge1" class="edge">
+<title>BT03_Hinterlands-&gt;BT03_Hinterlands_01a</title>
+<path fill="none" stroke="#000000" d="M336.3268,-465.5076C321.1378,-454.8799 304.9325,-443.5411 290.5724,-433.4934"/>
+<polygon fill="#000000" stroke="#000000" points="292.5523,-430.6071 282.3523,-427.7418 288.5392,-436.3426 292.5523,-430.6071"/>
+</g>
+<!-- BT03_Hinterlands_01b -->
+<g id="node3" class="node">
+<title>BT03_Hinterlands_01b</title>
+<ellipse fill="none" stroke="#000000" cx="539.3876" cy="-403.2772" rx="100.9508" ry="25.4118"/>
+<text text-anchor="start" x="475.9872" y="-405.6772" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Take the River route</text>
+<text text-anchor="start" x="483.7614" y="-391.6772" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Silence The Guns</text>
+</g>
+<!-- BT03_Hinterlands&#45;&gt;BT03_Hinterlands_01b -->
+<g id="edge2" class="edge">
+<title>BT03_Hinterlands-&gt;BT03_Hinterlands_01b</title>
+<path fill="none" stroke="#000000" d="M449.2216,-465.5076C464.7553,-454.7866 481.3372,-443.3421 495.9898,-433.2293"/>
+<polygon fill="#000000" stroke="#000000" points="498.1294,-436.0053 504.3715,-427.4445 494.1532,-430.2442 498.1294,-436.0053"/>
+</g>
+<!-- BT05_Hinterlands_03 -->
+<g id="node4" class="node">
+<title>BT05_Hinterlands_03</title>
+<ellipse fill="none" stroke="#000000" cx="138.3876" cy="-176.0548" rx="138.2753" ry="45.011"/>
+<text text-anchor="start" x="78.8771" y="-192.4548" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Private Warehouse</text>
+<text text-anchor="start" x="109.9872" y="-178.4548" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Datahunt</text>
+<text text-anchor="start" x="48.5328" y="-150.4548" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Clue 2:</text>
+<text text-anchor="start" x="92.875" y="-150.4548" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   Warehouse Datalog</text>
+</g>
+<!-- BT03_Hinterlands_01a&#45;&gt;BT05_Hinterlands_03 -->
+<g id="edge3" class="edge">
+<title>BT03_Hinterlands_01a-&gt;BT05_Hinterlands_03</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M214.8495,-378.7479C198.5555,-364.7602 179.953,-345.8801 168.7078,-325.0214 153.247,-296.3431 145.6466,-260.6843 141.921,-231.4454"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="145.3842,-230.9245 140.7583,-221.3929 138.4305,-231.7289 145.3842,-230.9245"/>
+<text text-anchor="start" x="169.3876" y="-296.3655" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+4</text>
+</g>
+<!-- BT04_Hinterlands_02 -->
+<g id="node5" class="node">
+<title>BT04_Hinterlands_02</title>
+<ellipse fill="none" stroke="#000000" cx="348.3876" cy="-299.5655" rx="109.5862" ry="25.4118"/>
+<text text-anchor="start" x="278.7523" y="-301.9655" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Clear the Landing Pad</text>
+<text text-anchor="start" x="329.7151" y="-287.9655" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Purge</text>
+</g>
+<!-- BT03_Hinterlands_01a&#45;&gt;BT04_Hinterlands_02 -->
+<g id="edge4" class="edge">
+<title>BT03_Hinterlands_01a-&gt;BT04_Hinterlands_02</title>
+<path fill="none" stroke="#fd9d43" stroke-width="2" d="M233.7416,-377.7914C229.5883,-366.3361 227.7375,-353.1481 234.7078,-343.0214 239.5647,-335.965 252.7498,-329.0191 268.5001,-322.8214"/>
+<polygon fill="#fd9d43" stroke="#fd9d43" stroke-width="2" points="269.883,-326.0412 278.0265,-319.2637 267.4339,-319.4836 269.883,-326.0412"/>
+<text text-anchor="start" x="235.3876" y="-348.2214" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+4</text>
+</g>
+<!-- BT03_Hinterlands_01a&#45;&gt;BT04_Hinterlands_02 -->
+<g id="edge5" class="edge">
+<title>BT03_Hinterlands_01a-&gt;BT04_Hinterlands_02</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M271.8369,-378.1715C285.3594,-364.2859 302.3138,-346.8763 316.8274,-331.9731"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="319.6941,-334.046 324.1635,-324.44 314.6792,-329.1623 319.6941,-334.046"/>
+<text text-anchor="start" x="304.3876" y="-348.2214" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+6</text>
+</g>
+<!-- BT03_Hinterlands_01b&#45;&gt;BT04_Hinterlands_02 -->
+<g id="edge6" class="edge">
+<title>BT03_Hinterlands_01b-&gt;BT04_Hinterlands_02</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M496.5235,-380.0023C468.2156,-364.6313 430.9348,-344.3881 400.8554,-328.0552"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="402.2277,-324.8177 391.7695,-323.1216 398.8874,-330.9693 402.2277,-324.8177"/>
+<text text-anchor="start" x="454.3876" y="-348.2214" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+3</text>
+</g>
+<!-- End -->
+<g id="node6" class="node">
+<title>End</title>
+<polygon fill="none" stroke="#000000" points="429.7193,-78 287.0559,-78 287.0559,0 429.7193,0 429.7193,-78"/>
+<text text-anchor="start" x="315.9907" y="-48.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Continue with</text>
+<text text-anchor="start" x="294.9718" y="-20.4" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Gates of Secundus</text>
+<text text-anchor="start" x="414.0222" y="-20.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">  </text>
+<text text-anchor="start" x="352.5517" y="-6.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   </text>
+</g>
+<!-- BT03_Hinterlands_01b&#45;&gt;End -->
+<g id="edge7" class="edge">
+<title>BT03_Hinterlands_01b-&gt;End</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M532.4947,-377.7224C516.9149,-322.8238 475.2928,-190.9162 411.3876,-96 409.1589,-92.6899 406.7392,-89.3849 404.2021,-86.128"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="406.7302,-83.6901 397.6958,-78.1556 401.3069,-88.116 406.7302,-83.6901"/>
+<text text-anchor="start" x="490.3876" y="-244.5097" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+12</text>
+</g>
+<!-- BT05_Hinterlands_03&#45;&gt;End -->
+<g id="edge10" class="edge">
+<title>BT05_Hinterlands_03-&gt;End</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M163.9034,-131.219C172.9188,-118.4449 184.0195,-105.4484 196.7078,-96 220.4103,-78.3499 250.0489,-65.8164 277.4531,-57.0858"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="278.5004,-60.4256 287.0397,-54.1541 276.4533,-53.7316 278.5004,-60.4256"/>
+<text text-anchor="start" x="197.3876" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+3</text>
+</g>
+<!-- BT05_Hinterlands_03&#45;&gt;End -->
+<g id="edge11" class="edge">
+<title>BT05_Hinterlands_03-&gt;End</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M205.6182,-136.4374C218.5367,-128.6834 231.9211,-120.5513 244.3876,-112.8 259.2838,-103.538 275.1501,-93.4263 290.1646,-83.7411"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="292.3956,-86.4665 298.8927,-78.0975 288.5947,-80.5883 292.3956,-86.4665"/>
+<text text-anchor="start" x="270.3876" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+7</text>
+</g>
+<!-- BT04_Hinterlands_02&#45;&gt;BT05_Hinterlands_03 -->
+<g id="edge8" class="edge">
+<title>BT04_Hinterlands_02-&gt;BT05_Hinterlands_03</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M307.8975,-275.7514C281.533,-260.2453 246.3093,-239.5286 214.8026,-220.998"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="216.4191,-217.8883 206.025,-215.8355 212.8703,-223.9221 216.4191,-217.8883"/>
+<text text-anchor="start" x="275.3876" y="-244.5097" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+3</text>
+</g>
+<!-- BT04_Hinterlands_02&#45;&gt;End -->
+<g id="edge9" class="edge">
+<title>BT04_Hinterlands_02-&gt;End</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M349.3646,-274.107C351.0129,-231.1587 354.3734,-143.5951 356.4957,-88.2953"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="360.0037,-88.1527 356.8899,-78.0258 353.0088,-87.8842 360.0037,-88.1527"/>
+<text text-anchor="start" x="355.3876" y="-172.8548" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+8</text>
+</g>
+</g>
+</svg>

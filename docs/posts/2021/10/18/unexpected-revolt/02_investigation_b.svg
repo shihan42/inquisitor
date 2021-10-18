@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="892pt" height="591pt" viewBox="0.00 0.00 891.60 591.33" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 587.331)">
+<title>investigation_b</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-587.331 887.6007,-587.331 887.6007,4 -4,4"/>
+<!-- BT03_Stronghold -->
+<g id="node1" class="node">
+<title>BT03_Stronghold</title>
+<polygon fill="none" stroke="#000000" points="510.0406,-583.331 372.3049,-583.331 372.3049,-505.331 510.0406,-505.331 510.0406,-583.331"/>
+<text text-anchor="start" x="417.4469" y="-553.731" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="380.489" y="-539.731" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Visit the Stronghold</text>
+<text text-anchor="start" x="406.5563" y="-525.731" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Gamma 79</text>
+<text text-anchor="start" x="439.2274" y="-511.731" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT03_Stronghold_01a -->
+<g id="node2" class="node">
+<title>BT03_Stronghold_01a</title>
+<ellipse fill="none" stroke="#000000" cx="125.1727" cy="-432.9757" rx="125.3457" ry="35.2113"/>
+<text text-anchor="start" x="50.0991" y="-442.3757" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Call the Bombers of and</text>
+<text text-anchor="start" x="44.6622" y="-428.3757" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">assault with elite regiment</text>
+<text text-anchor="start" x="107.2772" y="-414.3757" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Siege</text>
+</g>
+<!-- BT03_Stronghold&#45;&gt;BT03_Stronghold_01a -->
+<g id="edge1" class="edge">
+<title>BT03_Stronghold-&gt;BT03_Stronghold_01a</title>
+<path fill="none" stroke="#000000" d="M372.2157,-520.0312C325.5551,-503.5885 263.5112,-481.7248 213.2748,-464.022"/>
+<polygon fill="#000000" stroke="#000000" points="214.3109,-460.6762 203.7161,-460.6536 211.9844,-467.2783 214.3109,-460.6762"/>
+</g>
+<!-- BT03_Stronghold_01b -->
+<g id="node3" class="node">
+<title>BT03_Stronghold_01b</title>
+<ellipse fill="none" stroke="#000000" cx="736.1727" cy="-432.9757" rx="104.0681" ry="25.4118"/>
+<text text-anchor="start" x="670.4329" y="-435.3757" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Weaken air defences</text>
+<text text-anchor="start" x="688.7141" y="-421.3757" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Bunker Busting</text>
+</g>
+<!-- BT03_Stronghold&#45;&gt;BT03_Stronghold_01b -->
+<g id="edge2" class="edge">
+<title>BT03_Stronghold-&gt;BT03_Stronghold_01b</title>
+<path fill="none" stroke="#000000" d="M509.9648,-518.3637C558.0676,-500.206 621.9648,-476.0864 669.5769,-458.114"/>
+<polygon fill="#000000" stroke="#000000" points="671.0554,-461.297 679.175,-454.491 668.5833,-454.7481 671.0554,-461.297"/>
+</g>
+<!-- BT03_Stronghold_01c -->
+<g id="node4" class="node">
+<title>BT03_Stronghold_01c</title>
+<ellipse fill="none" stroke="#000000" cx="441.1727" cy="-432.9757" rx="119.2722" ry="35.2113"/>
+<text text-anchor="start" x="364.9308" y="-442.3757" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Call the bombers off and</text>
+<text text-anchor="start" x="378.1629" y="-428.3757" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">assault methodically</text>
+<text text-anchor="start" x="385.5465" y="-414.3757" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Silence The Guns</text>
+</g>
+<!-- BT03_Stronghold&#45;&gt;BT03_Stronghold_01c -->
+<g id="edge3" class="edge">
+<title>BT03_Stronghold-&gt;BT03_Stronghold_01c</title>
+<path fill="none" stroke="#000000" d="M441.1727,-505.0713C441.1727,-496.5202 441.1727,-487.4016 441.1727,-478.6267"/>
+<polygon fill="#000000" stroke="#000000" points="444.6728,-478.5381 441.1727,-468.5381 437.6728,-478.5382 444.6728,-478.5381"/>
+</g>
+<!-- BT05_Stronghold_03a -->
+<g id="node5" class="node">
+<title>BT05_Stronghold_03a</title>
+<ellipse fill="none" stroke="#000000" cx="411.1727" cy="-185.9543" rx="133.3559" ry="55.3091"/>
+<text text-anchor="start" x="339.9904" y="-209.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Clear the Underground</text>
+<text text-anchor="start" x="392.5002" y="-195.3543" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Purge</text>
+<text text-anchor="start" x="338.8277" y="-167.3543" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Clue 3:</text>
+<text text-anchor="start" x="383.1699" y="-167.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   Message from</text>
+<text text-anchor="start" x="324.8249" y="-153.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Inquisitor Houlikos to Blaine</text>
+</g>
+<!-- BT03_Stronghold_01a&#45;&gt;BT05_Stronghold_03a -->
+<g id="edge4" class="edge">
+<title>BT03_Stronghold_01a-&gt;BT05_Stronghold_03a</title>
+<path fill="none" stroke="#fd9d43" stroke-width="2" d="M140.3374,-397.709C154.8272,-367.2454 179.0942,-323.5739 210.4929,-293.9087 238.0927,-267.8327 273.2045,-246.1353 306.3163,-229.1984"/>
+<polygon fill="#fd9d43" stroke="#fd9d43" stroke-width="2" points="308.2231,-232.1578 315.5946,-224.5479 305.0864,-225.8999 308.2231,-232.1578"/>
+<text text-anchor="start" x="210.1727" y="-316.1645" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+8</text>
+</g>
+<!-- BT03_Stronghold_01a&#45;&gt;BT05_Stronghold_03a -->
+<g id="edge5" class="edge">
+<title>BT03_Stronghold_01a-&gt;BT05_Stronghold_03a</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M111.9863,-397.6926C103.1109,-367.4247 96.4597,-324.0495 117.4929,-293.9087 138.0533,-264.4454 215.7761,-236.6073 286.0988,-216.5813"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="287.2859,-219.8834 295.9658,-213.808 285.3918,-213.1445 287.2859,-219.8834"/>
+<text text-anchor="start" x="118.1727" y="-316.1645" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+5</text>
+</g>
+<!-- BT04_Stronghold_02 -->
+<g id="node6" class="node">
+<title>BT04_Stronghold_02</title>
+<ellipse fill="none" stroke="#000000" cx="412.1727" cy="-319.3645" rx="132.1643" ry="25.4118"/>
+<text text-anchor="start" x="326.5998" y="-321.7645" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Final assault on Gamma 79</text>
+<text text-anchor="start" x="394.2772" y="-307.7645" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Siege</text>
+</g>
+<!-- BT03_Stronghold_01a&#45;&gt;BT04_Stronghold_02 -->
+<g id="edge6" class="edge">
+<title>BT03_Stronghold_01a-&gt;BT04_Stronghold_02</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M197.966,-404.1599C242.9882,-386.3375 300.39,-363.6146 344.438,-346.1778"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="345.8986,-349.364 353.9083,-342.4289 343.322,-342.8554 345.8986,-349.364"/>
+<text text-anchor="start" x="294.1727" y="-368.0203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+10</text>
+</g>
+<!-- BT03_Stronghold_01b&#45;&gt;BT05_Stronghold_03a -->
+<g id="edge7" class="edge">
+<title>BT03_Stronghold_01b-&gt;BT05_Stronghold_03a</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M710.7695,-408.0219C680.7613,-379.1029 628.7618,-330.7131 580.1727,-293.9087 553.8782,-273.9915 523.8982,-254.03 496.5623,-236.7851"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="498.1199,-233.6307 487.788,-231.2851 494.4021,-239.5618 498.1199,-233.6307"/>
+<text text-anchor="start" x="641.1727" y="-316.1645" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+4</text>
+</g>
+<!-- BT03_Stronghold_01b&#45;&gt;BT04_Stronghold_02 -->
+<g id="edge9" class="edge">
+<title>BT03_Stronghold_01b-&gt;BT04_Stronghold_02</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M676.3686,-412.0052C622.6128,-393.1557 543.4826,-365.4086 485.842,-345.1968"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="486.6579,-341.774 476.0631,-341.7678 484.3416,-348.3796 486.6579,-341.774"/>
+<text text-anchor="start" x="583.1727" y="-368.0203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+8</text>
+</g>
+<!-- BT05_Stronghold_03b -->
+<g id="node7" class="node">
+<title>BT05_Stronghold_03b</title>
+<ellipse fill="none" stroke="#000000" cx="750.1727" cy="-185.9543" rx="133.3559" ry="55.3091"/>
+<text text-anchor="start" x="678.9904" y="-209.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Clear the Underground</text>
+<text text-anchor="start" x="731.5002" y="-195.3543" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Purge</text>
+<text text-anchor="start" x="677.8277" y="-167.3543" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Clue 3:</text>
+<text text-anchor="start" x="722.1699" y="-167.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   Message from</text>
+<text text-anchor="start" x="663.8249" y="-153.3543" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Inquisitor Houlikos to Blaine</text>
+</g>
+<!-- BT03_Stronghold_01b&#45;&gt;BT05_Stronghold_03b -->
+<g id="edge8" class="edge">
+<title>BT03_Stronghold_01b-&gt;BT05_Stronghold_03b</title>
+<path fill="none" stroke="#fd9d43" stroke-width="2" d="M744.8686,-407.4962C747.4354,-398.7659 749.8978,-388.8664 751.1727,-379.6203 757.0083,-337.3012 756.8051,-289.2846 755.1198,-251.6501"/>
+<polygon fill="#fd9d43" stroke="#fd9d43" stroke-width="2" points="758.5989,-251.1387 754.609,-241.3239 751.6075,-251.4847 758.5989,-251.1387"/>
+<text text-anchor="start" x="755.1727" y="-316.1645" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+4</text>
+</g>
+<!-- BT03_Stronghold_01c&#45;&gt;BT04_Stronghold_02 -->
+<g id="edge10" class="edge">
+<title>BT03_Stronghold_01c-&gt;BT04_Stronghold_02</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M439.4668,-397.5476C438.3077,-386.2877 436.3777,-373.8888 433.1727,-362.8203 432.3644,-360.0285 431.3895,-357.1954 430.3081,-354.3835"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="433.4478,-352.8233 426.3081,-344.9955 427.008,-355.5672 433.4478,-352.8233"/>
+<text text-anchor="start" x="436.1727" y="-368.0203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+3</text>
+</g>
+<!-- BT03_Stronghold_01c&#45;&gt;BT04_Stronghold_02 -->
+<g id="edge11" class="edge">
+<title>BT03_Stronghold_01c-&gt;BT04_Stronghold_02</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M395.4902,-400.1135C389.8163,-393.9743 384.8414,-387.1054 381.4929,-379.6203 377.6558,-371.0428 379.2179,-361.9381 383.1778,-353.4745"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="386.3305,-355.0127 388.2739,-344.5976 380.2597,-351.5276 386.3305,-355.0127"/>
+<text text-anchor="start" x="381.1727" y="-368.0203" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+4</text>
+</g>
+<!-- End -->
+<g id="node8" class="node">
+<title>End</title>
+<polygon fill="none" stroke="#000000" points="652.5044,-78 509.8411,-78 509.8411,0 652.5044,0 652.5044,-78"/>
+<text text-anchor="start" x="538.7758" y="-48.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Continue with</text>
+<text text-anchor="start" x="517.7569" y="-20.4" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Gates of Secundus</text>
+<text text-anchor="start" x="636.8073" y="-20.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">  </text>
+<text text-anchor="start" x="575.3368" y="-6.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   </text>
+</g>
+<!-- BT05_Stronghold_03a&#45;&gt;End -->
+<g id="edge14" class="edge">
+<title>BT05_Stronghold_03a-&gt;End</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M394.0062,-131.2342C393.1589,-118.7198 395.0881,-106.1347 402.4929,-96 414.6748,-79.3273 458.6444,-65.184 499.9139,-55.1563"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="500.8441,-58.5329 509.7697,-52.8247 499.2325,-51.721 500.8441,-58.5329"/>
+<text text-anchor="start" x="402.1727" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+4</text>
+</g>
+<!-- BT05_Stronghold_03a&#45;&gt;End -->
+<g id="edge15" class="edge">
+<title>BT05_Stronghold_03a-&gt;End</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M469.2016,-135.792C488.3068,-119.2768 509.4399,-101.0085 528.1524,-84.8328"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="530.7345,-87.2272 536.0108,-78.0397 526.1567,-81.9315 530.7345,-87.2272"/>
+<text text-anchor="start" x="511.1727" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+6</text>
+</g>
+<!-- BT04_Stronghold_02&#45;&gt;BT05_Stronghold_03a -->
+<g id="edge12" class="edge">
+<title>BT04_Stronghold_02-&gt;BT05_Stronghold_03a</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M361.235,-295.7862C354.1174,-290.2815 347.7806,-283.6955 343.4929,-275.9087 337.5872,-265.1833 338.6252,-254.3202 343.5621,-244.0291"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="346.737,-245.5369 348.8276,-235.1504 340.7162,-241.9662 346.737,-245.5369"/>
+<text text-anchor="start" x="343.1727" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+3</text>
+</g>
+<!-- BT04_Stronghold_02&#45;&gt;BT05_Stronghold_03a -->
+<g id="edge13" class="edge">
+<title>BT04_Stronghold_02-&gt;BT05_Stronghold_03a</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M411.9799,-293.6417C411.8891,-281.5221 411.7762,-266.4557 411.6638,-251.4694"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="415.1614,-251.1177 411.5864,-241.1442 408.1616,-251.1702 415.1614,-251.1177"/>
+<text text-anchor="start" x="411.1727" y="-264.3087" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+6</text>
+</g>
+<!-- BT05_Stronghold_03b&#45;&gt;End -->
+<g id="edge16" class="edge">
+<title>BT05_Stronghold_03b-&gt;End</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M664.5616,-143.5081C650.6194,-134.4808 636.9974,-124.1876 625.4929,-112.8 617.8461,-105.2308 610.9951,-96.0824 605.097,-86.8416"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="607.9158,-84.7397 599.7394,-78.002 601.9296,-88.368 607.9158,-84.7397"/>
+<text text-anchor="start" x="625.1727" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+4</text>
+</g>
+<!-- BT05_Stronghold_03b&#45;&gt;End -->
+<g id="edge17" class="edge">
+<title>BT05_Stronghold_03b-&gt;End</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M709.5483,-132.9818C698.4692,-120.1444 685.97,-106.972 673.1727,-96 668.3987,-91.9068 663.3004,-87.9097 658.0443,-84.0534"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="659.8593,-81.0496 649.6787,-78.1158 655.8077,-86.758 659.8593,-81.0496"/>
+<text text-anchor="start" x="689.1727" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+6</text>
+</g>
+</g>
+</svg>

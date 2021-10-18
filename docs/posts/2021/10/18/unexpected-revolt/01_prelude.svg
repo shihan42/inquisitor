@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="584pt" height="503pt" viewBox="0.00 0.00 583.53 502.51" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 498.5076)">
+<title>prelude</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-498.5076 579.5266,-498.5076 579.5266,4 -4,4"/>
+<!-- BT_start -->
+<g id="node1" class="node">
+<title>BT_start</title>
+<polygon fill="none" stroke="#000000" points="349.9272,-494.5076 255.7586,-494.5076 255.7586,-430.5076 349.9272,-430.5076 349.9272,-494.5076"/>
+<text text-anchor="start" x="263.5512" y="-464.9076" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Unexpected </text>
+<text text-anchor="start" x="283.0084" y="-450.9076" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Revolt</text>
+<text text-anchor="start" x="300.8976" y="-436.9076" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT01_CityX -->
+<g id="node2" class="node">
+<title>BT01_CityX</title>
+<ellipse fill="none" stroke="#000000" cx="302.8429" cy="-312.6538" rx="113.7501" ry="65.1077"/>
+<text text-anchor="start" x="279.1234" y="-343.0538" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Mission</text>
+<text text-anchor="start" x="284.9474" y="-315.0538" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Siege</text>
+<text text-anchor="start" x="230.4979" y="-287.0538" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Clue 1:</text>
+<text text-anchor="start" x="274.8401" y="-287.0538" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   Message from</text>
+<text text-anchor="start" x="247.2188" y="-273.0538" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Interrogator Siech</text>
+</g>
+<!-- BT_start&#45;&gt;BT01_CityX -->
+<g id="edge1" class="edge">
+<title>BT_start-&gt;BT01_CityX</title>
+<path fill="none" stroke="#000000" stroke-width="2" d="M302.8429,-430.3602C302.8429,-417.8526 302.8429,-402.9532 302.8429,-388.03"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="2" points="306.343,-387.7238 302.8429,-377.7239 299.343,-387.7239 306.343,-387.7238"/>
+<text text-anchor="start" x="302.8429" y="-400.9076" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+5/+0</text>
+</g>
+<!-- BT02_Investigation_Avenues -->
+<g id="node3" class="node">
+<title>BT02_Investigation_Avenues</title>
+<polygon fill="none" stroke="#000000" points="353.4244,-194.8 252.2614,-194.8 252.2614,-130.8 353.4244,-130.8 353.4244,-194.8"/>
+<text text-anchor="start" x="284.1718" y="-165.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Part I:</text>
+<text text-anchor="start" x="260.0526" y="-151.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Investigations</text>
+<text text-anchor="start" x="300.8976" y="-137.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT01_CityX&#45;&gt;BT02_Investigation_Avenues -->
+<g id="edge2" class="edge">
+<title>BT01_CityX-&gt;BT02_Investigation_Avenues</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M245.4103,-256.1729C239.6222,-247.8218 234.6151,-238.8832 231.1631,-229.6 225.9105,-215.4747 232.8781,-203.1258 244.2369,-193.0156"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="246.564,-195.6379 252.251,-186.6988 242.2307,-190.1403 246.564,-195.6379"/>
+<text text-anchor="start" x="231.8429" y="-218" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+15/+5</text>
+</g>
+<!-- BT01_CityX&#45;&gt;BT02_Investigation_Avenues -->
+<g id="edge3" class="edge">
+<title>BT01_CityX-&gt;BT02_Investigation_Avenues</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M302.8429,-247.3617C302.8429,-233.0476 302.8429,-218.2566 302.8429,-205.1251"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="306.343,-204.9905 302.8429,-194.9905 299.343,-204.9906 306.343,-204.9905"/>
+<text text-anchor="start" x="302.8429" y="-218" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+15/+3</text>
+</g>
+<!-- BT03_TowardsSecundus -->
+<g id="node4" class="node">
+<title>BT03_TowardsSecundus</title>
+<polygon fill="none" stroke="#000000" points="167.529,-78 .1568,-78 .1568,0 167.529,0 167.529,-78"/>
+<text text-anchor="start" x="60.1171" y="-48.4" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="8" y="-34.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">After Inquisitor Houlikos,</text>
+<text text-anchor="start" x="10.3268" y="-20.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">towards Hive Secundus</text>
+<text text-anchor="start" x="81.8976" y="-6.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT02_Investigation_Avenues&#45;&gt;BT03_TowardsSecundus -->
+<g id="edge4" class="edge">
+<title>BT02_Investigation_Avenues-&gt;BT03_TowardsSecundus</title>
+<path fill="none" stroke="#000000" stroke-width="2" d="M252.0494,-134.0866C225.2534,-118.9389 191.798,-100.0267 161.7969,-83.0671"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="2" points="163.4509,-79.9816 153.0231,-78.1074 160.0061,-86.0754 163.4509,-79.9816"/>
+<text text-anchor="start" x="213.8429" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+0</text>
+</g>
+<!-- BT03_Hinterlands -->
+<g id="node5" class="node">
+<title>BT03_Hinterlands</title>
+<polygon fill="none" stroke="#000000" points="365.5375,-78 240.1483,-78 240.1483,0 365.5375,0 365.5375,-78"/>
+<text text-anchor="start" x="279.1171" y="-48.4" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="257.3387" y="-34.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">After Giltlocke,</text>
+<text text-anchor="start" x="247.9958" y="-20.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">to the Hinterlands</text>
+<text text-anchor="start" x="300.8976" y="-6.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT02_Investigation_Avenues&#45;&gt;BT03_Hinterlands -->
+<g id="edge5" class="edge">
+<title>BT02_Investigation_Avenues-&gt;BT03_Hinterlands</title>
+<path fill="none" stroke="#000000" stroke-width="2" d="M302.8429,-130.5962C302.8429,-117.6825 302.8429,-102.5089 302.8429,-88.2672"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="2" points="306.343,-88.1073 302.8429,-78.1074 299.343,-88.1074 306.343,-88.1073"/>
+<text text-anchor="start" x="302.8429" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+0</text>
+</g>
+<!-- BT03_Stronghold -->
+<g id="node6" class="node">
+<title>BT03_Stronghold</title>
+<polygon fill="none" stroke="#000000" points="575.7108,-78 437.975,-78 437.975,0 575.7108,0 575.7108,-78"/>
+<text text-anchor="start" x="483.1171" y="-48.4" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="446.1592" y="-34.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Visit the Stronghold</text>
+<text text-anchor="start" x="472.2265" y="-20.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Gamma 79</text>
+<text text-anchor="start" x="504.8976" y="-6.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT02_Investigation_Avenues&#45;&gt;BT03_Stronghold -->
+<g id="edge6" class="edge">
+<title>BT02_Investigation_Avenues-&gt;BT03_Stronghold</title>
+<path fill="none" stroke="#000000" stroke-width="2" d="M353.532,-132.0387C377.704,-117.3696 407.0745,-99.5457 433.6147,-83.4395"/>
+<polygon fill="#000000" stroke="#000000" stroke-width="2" points="435.762,-86.2305 442.4951,-78.0503 432.1303,-80.2462 435.762,-86.2305"/>
+<text text-anchor="start" x="411.8429" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+0/+0</text>
+</g>
+</g>
+</svg>

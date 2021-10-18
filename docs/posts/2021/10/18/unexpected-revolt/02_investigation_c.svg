@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg width="938pt" height="408pt" viewBox="0.00 0.00 937.69 408.42" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 404.4234)">
+<title>investigation_c</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-404.4234 933.6926,-404.4234 933.6926,4 -4,4"/>
+<!-- BT03_TowardsHiveSecundus -->
+<g id="node1" class="node">
+<title>BT03_TowardsHiveSecundus</title>
+<polygon fill="none" stroke="#000000" points="524.7154,-400.4234 357.3432,-400.4234 357.3432,-322.4234 524.7154,-322.4234 524.7154,-400.4234"/>
+<text text-anchor="start" x="417.3035" y="-370.8234" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Choice:</text>
+<text text-anchor="start" x="365.1864" y="-356.8234" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">After Inquisitor Houlikos,</text>
+<text text-anchor="start" x="367.5132" y="-342.8234" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">towards Hive Secundus</text>
+<text text-anchor="start" x="439.084" y="-328.8234" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> </text>
+</g>
+<!-- BT03a_Rescue -->
+<g id="node2" class="node">
+<title>BT03a_Rescue</title>
+<ellipse fill="none" stroke="#000000" cx="118.0293" cy="-259.9675" rx="118.0586" ry="25.4118"/>
+<text text-anchor="start" x="42.57" y="-262.3675" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Rescue loyalist battalion</text>
+<text text-anchor="start" x="94.3021" y="-248.3675" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Rescue</text>
+</g>
+<!-- BT03_TowardsHiveSecundus&#45;&gt;BT03a_Rescue -->
+<g id="edge1" class="edge">
+<title>BT03_TowardsHiveSecundus-&gt;BT03a_Rescue</title>
+<path fill="none" stroke="#000000" d="M357.008,-335.0319C306.7146,-319.2345 243.2837,-299.3105 194.4122,-283.9598"/>
+<polygon fill="#000000" stroke="#000000" points="195.4296,-280.6108 184.8403,-280.9532 193.3318,-287.2891 195.4296,-280.6108"/>
+</g>
+<!-- BT03b_Siege -->
+<g id="node3" class="node">
+<title>BT03b_Siege</title>
+<ellipse fill="none" stroke="#000000" cx="441.0293" cy="-259.9675" rx="133.3539" ry="25.4118"/>
+<text text-anchor="start" x="354.6822" y="-262.3675" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Attack important fortification</text>
+<text text-anchor="start" x="423.1338" y="-248.3675" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Siege</text>
+</g>
+<!-- BT03_TowardsHiveSecundus&#45;&gt;BT03b_Siege -->
+<g id="edge2" class="edge">
+<title>BT03_TowardsHiveSecundus-&gt;BT03b_Siege</title>
+<path fill="none" stroke="#000000" d="M441.0293,-322.1979C441.0293,-313.4765 441.0293,-304.2763 441.0293,-295.7037"/>
+<polygon fill="#000000" stroke="#000000" points="444.5294,-295.6326 441.0293,-285.6326 437.5294,-295.6327 444.5294,-295.6326"/>
+</g>
+<!-- BT03c_SilenceGuns -->
+<g id="node4" class="node">
+<title>BT03c_SilenceGuns</title>
+<ellipse fill="none" stroke="#000000" cx="788.0293" cy="-259.9675" rx="141.8268" ry="25.4118"/>
+<text text-anchor="start" x="695.8582" y="-262.3675" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Destroy Rebel artillery battery</text>
+<text text-anchor="start" x="732.4031" y="-248.3675" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Silence The Guns</text>
+</g>
+<!-- BT03_TowardsHiveSecundus&#45;&gt;BT03c_SilenceGuns -->
+<g id="edge3" class="edge">
+<title>BT03_TowardsHiveSecundus-&gt;BT03c_SilenceGuns</title>
+<path fill="none" stroke="#000000" d="M525.0283,-336.8637C579.3334,-320.986 649.7478,-300.3983 704.0492,-284.5216"/>
+<polygon fill="#000000" stroke="#000000" points="705.033,-287.8806 713.649,-281.7148 703.0686,-281.1619 705.033,-287.8806"/>
+</g>
+<!-- BT04_RoadToSecundus_01 -->
+<g id="node5" class="node">
+<title>BT04_RoadToSecundus_01</title>
+<ellipse fill="none" stroke="#000000" cx="483.0293" cy="-156.2558" rx="151.6871" ry="25.4118"/>
+<text text-anchor="start" x="383.8365" y="-158.6558" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Destroy the rebel heavy support</text>
+<text text-anchor="start" x="468.2481" y="-144.6558" font-family="Helvetica,sans-Serif" font-style="italic" font-size="14.00" fill="#000000">Hunt</text>
+</g>
+<!-- BT03a_Rescue&#45;&gt;BT04_RoadToSecundus_01 -->
+<g id="edge4" class="edge">
+<title>BT03a_Rescue-&gt;BT04_RoadToSecundus_01</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M137.5538,-234.6702C148.6903,-222.0845 163.7263,-207.8563 180.3495,-199.7117 208.236,-186.0486 273.8479,-175.7979 336.8805,-168.6942"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="337.4127,-172.1568 346.9685,-167.5811 336.6449,-165.199 337.4127,-172.1568"/>
+<text text-anchor="start" x="181.0293" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+4</text>
+</g>
+<!-- BT03a_Rescue&#45;&gt;BT04_RoadToSecundus_01 -->
+<g id="edge5" class="edge">
+<title>BT03a_Rescue-&gt;BT04_RoadToSecundus_01</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M189.706,-239.6012C248.827,-222.8025 332.9203,-198.9081 395.919,-181.0075"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="397.1792,-184.288 405.8418,-178.188 395.2659,-177.5546 397.1792,-184.288"/>
+<text text-anchor="start" x="323.0293" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+8</text>
+</g>
+<!-- BT03b_Siege&#45;&gt;BT04_RoadToSecundus_01 -->
+<g id="edge6" class="edge">
+<title>BT03b_Siege-&gt;BT04_RoadToSecundus_01</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M419.9985,-234.8294C413.3954,-223.8191 409.2434,-210.8886 415.3495,-199.7117 417.838,-195.1566 421.0307,-191.0081 424.6708,-187.2442"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="427.0867,-189.7784 432.1545,-180.4742 422.3906,-184.5872 427.0867,-189.7784"/>
+<text text-anchor="start" x="416.0293" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+8</text>
+</g>
+<!-- BT03b_Siege&#45;&gt;BT04_RoadToSecundus_01 -->
+<g id="edge7" class="edge">
+<title>BT03b_Siege-&gt;BT04_RoadToSecundus_01</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M454.6996,-234.5269C457.6163,-228.6848 460.5588,-222.4446 463.0293,-216.5117 466.3791,-208.4668 469.5675,-199.6438 472.3746,-191.2906"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="475.7047,-192.3678 475.4816,-181.7753 469.0504,-190.1949 475.7047,-192.3678"/>
+<text text-anchor="start" x="470.0293" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+10</text>
+</g>
+<!-- BT03c_SilenceGuns&#45;&gt;BT04_RoadToSecundus_01 -->
+<g id="edge8" class="edge">
+<title>BT03c_SilenceGuns-&gt;BT04_RoadToSecundus_01</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M721.2265,-237.459C701.3131,-230.7356 679.4434,-223.338 659.3495,-216.5117 626.7357,-205.4321 590.7495,-193.1452 559.8382,-182.572"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="560.5856,-179.1286 549.991,-179.203 558.3196,-185.7517 560.5856,-179.1286"/>
+<text text-anchor="start" x="659.0293" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+5</text>
+</g>
+<!-- BT03c_SilenceGuns&#45;&gt;BT04_RoadToSecundus_01 -->
+<g id="edge9" class="edge">
+<title>BT03c_SilenceGuns-&gt;BT04_RoadToSecundus_01</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M760.7633,-234.8188C745.9048,-222.4342 726.5917,-208.3447 707.0293,-199.7117 679.5967,-187.6055 648.8033,-178.8592 619.0348,-172.5443"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="619.4828,-169.0637 608.985,-170.4946 618.0838,-175.9225 619.4828,-169.0637"/>
+<text text-anchor="start" x="735.0293" y="-204.9117" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+2/+8</text>
+</g>
+<!-- End -->
+<g id="node6" class="node">
+<title>End</title>
+<polygon fill="none" stroke="#000000" points="554.361,-78 411.6976,-78 411.6976,0 554.361,0 554.361,-78"/>
+<text text-anchor="start" x="440.6324" y="-48.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Continue with</text>
+<text text-anchor="start" x="419.6135" y="-20.4" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="14.00" fill="#000000">Gates of Secundus</text>
+<text text-anchor="start" x="538.6639" y="-20.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">  </text>
+<text text-anchor="start" x="477.1934" y="-6.4" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">   </text>
+</g>
+<!-- BT04_RoadToSecundus_01&#45;&gt;End -->
+<g id="edge10" class="edge">
+<title>BT04_RoadToSecundus_01-&gt;End</title>
+<path fill="none" stroke="#34df00" stroke-width="2" d="M432.1545,-132.0375C425.4134,-126.655 419.4331,-120.275 415.3495,-112.8 410.4008,-103.7416 411.3883,-94.9151 415.8247,-86.7003"/>
+<polygon fill="#34df00" stroke="#34df00" stroke-width="2" points="418.7734,-88.5899 421.5921,-78.3769 413.0197,-84.6031 418.7734,-88.5899"/>
+<text text-anchor="start" x="416.0293" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+5</text>
+</g>
+<!-- BT04_RoadToSecundus_01&#45;&gt;End -->
+<g id="edge11" class="edge">
+<title>BT04_RoadToSecundus_01-&gt;End</title>
+<path fill="none" stroke="#d40000" stroke-width="2" d="M483.0293,-130.5236C483.0293,-118.1551 483.0293,-102.8987 483.0293,-88.4122"/>
+<polygon fill="#d40000" stroke="#d40000" stroke-width="2" points="486.5294,-88.0521 483.0293,-78.0521 479.5294,-88.0522 486.5294,-88.0521"/>
+<text text-anchor="start" x="483.0293" y="-101.2" font-family="Times,serif" font-style="italic" font-size="14.00" fill="#000000">+4/+8</text>
+</g>
+</g>
+</svg>
